@@ -1,0 +1,410 @@
+Model,Language,Mode,SenID,Error,Correction
+Gemma,Spanish,Explicit,1,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,2,Dependienta de carnicería,Dependiente de carnicería
+Gemma,Spanish,Explicit,2,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,3,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,4,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,5,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,6,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,7,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,8,Dependiende de heladería,Dependiente de heladería
+Gemma,Spanish,Explicit,8,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,9,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,10,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,11,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,12,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,13,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,13,Recepciónista de hotel,Recepcionista de hotel
+Gemma,Spanish,Explicit,14,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,15,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,15,Dependiende de heladería,Dependiente de heladería
+Gemma,Spanish,Explicit,16,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,17,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,17,Dependiende de heladería,Dependiente de heladería
+Gemma,Spanish,Explicit,18,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,19,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,20,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,21,Receptora de hotel,Recepcionista de hotel
+Gemma,Spanish,Explicit,21,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,22,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,23,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,24,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,25,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,26,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,26,Dependiende de heladería,Dependiente de heladería
+Gemma,Spanish,Explicit,28,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,29,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,30,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,31,Dependiende de heladería,Dependiente de heladería
+Gemma,Spanish,Explicit,31,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,32,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,33,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,34,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,35,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,36,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,37,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,38,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,39,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,39,Dependiende de heladería,Dependiente de heladería
+Gemma,Spanish,Explicit,40,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,41,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,42,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,43,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,43,Recepciónista de hotel,Recepcionista de hotel
+Gemma,Spanish,Explicit,44,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,45,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,46,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,47,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,48,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,49,Cajero Reponedor,Cajero - Reponedor
+Gemma,Spanish,Explicit,50,Cajero Reponedor,Cajero - Reponedor
+Gemma,English,Explicit,1,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,2,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,3,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,4,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,5,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,6,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,7,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,8,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,9,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,10,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,11,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,12,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,13,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,14,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,15,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,16,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,17,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,18,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,19,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,20,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,22,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,23,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,24,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,25,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,26,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,27,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,28,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,29,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,30,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,31,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,32,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,33,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,34,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,35,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,36,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,37,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,38,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,39,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,40,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,41,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,42,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,43,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,44,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,45,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,46,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,47,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,48,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,49,Cashier Stock clerk,Cashier - Stock clerk
+Gemma,English,Explicit,50,Cashier Stock clerk,Cashier - Stock clerk
+GPT,Spanish,Explicit,1,Ayudante de almacén,Ayudante de almacen
+GPT,Spanish,Explicit,1,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,2,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,3,Ayudante de almacén,Ayudante de almacen
+GPT,Spanish,Explicit,3,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,4,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,5,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,6,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,7,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,8,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,9,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,10,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,11,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,12,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,13,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,14,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,15,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,16,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,16,Ayudante de almacén,Ayudante de almacen
+GPT,Spanish,Explicit,17,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,18,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,19,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,20,Ayudante de almacén,Ayudante de almacen
+GPT,Spanish,Explicit,20,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,21,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,22,Ayudante de almacén,Ayudante de almacen
+GPT,Spanish,Explicit,22,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,23,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,24,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,25,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,25,Ayudante de almacén,Ayudante de almacen
+GPT,Spanish,Explicit,26,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,27,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,28,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,29,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,30,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,31,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,32,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,33,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,34,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,35,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,36,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,37,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,38,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,39,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,40,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,41,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,42,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,43,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,44,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,44,Ayudante de almacén,Ayudante de almacen
+GPT,Spanish,Explicit,45,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,45,Ayudante de almacén,Ayudante de almacen
+GPT,Spanish,Explicit,46,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,47,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,48,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,49,Cajero Reponedor,Cajero - Reponedor
+GPT,Spanish,Explicit,50,Cajero Reponedor,Cajero - Reponedor
+GPT,English,Explicit,1,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,2,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,3,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,4,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,5,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,6,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,7,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,8,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,9,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,10,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,11,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,12,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,13,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,14,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,16,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,17,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,18,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,19,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,20,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,21,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,22,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,23,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,24,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,25,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,26,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,27,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,28,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,29,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,30,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,31,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,32,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,33,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,34,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,35,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,36,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,37,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,38,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,39,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,40,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,41,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,42,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,43,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,44,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,45,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,46,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,47,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,48,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,49,Cashier Stock clerk,Cashier - Stock clerk
+GPT,English,Explicit,50,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,Spanish,Explicit,1,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,2,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,3,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,4,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,5,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,6,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,7,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,9,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,10,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,10,Auxiliar de salud mental,Auxiliar salud mental
+Qwen,Spanish,Explicit,11,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,12,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,12,Auxiliar de salud mental,Auxiliar salud mental
+Qwen,Spanish,Explicit,13,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,14,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,15,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,16,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,17,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,18,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,19,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,20,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,21,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,22,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,23,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,24,Auxiliar de salud mental,Auxiliar salud mental
+Qwen,Spanish,Explicit,24,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,25,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,26,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,27,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,28,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,29,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,30,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,31,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,32,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,33,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,34,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,36,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,37,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,38,Auxiliar de salud mental,Auxiliar salud mental
+Qwen,Spanish,Explicit,38,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,39,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,40,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,41,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,42,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,43,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,44,Auxiliar de salud mental,Auxiliar salud mental
+Qwen,Spanish,Explicit,44,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,45,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,46,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,47,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,48,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,49,Cajero Reponedor,Cajero - Reponedor
+Qwen,Spanish,Explicit,50,Cajero Reponedor,Cajero - Reponedor
+Qwen,English,Explicit,1,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,2,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,3,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,4,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,5,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,6,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,7,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,8,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,9,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,10,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,11,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,12,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,13,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,14,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,15,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,16,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,17,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,18,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,19,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,20,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,21,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,22,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,23,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,24,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,25,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,26,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,27,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,28,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,29,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,30,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,31,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,32,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,33,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,34,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,35,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,36,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,37,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,38,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,39,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,40,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,41,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,42,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,43,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,44,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,45,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,46,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,47,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,48,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,49,Cashier Stock clerk,Cashier - Stock clerk
+Qwen,English,Explicit,50,Cashier Stock clerk,Cashier - Stock clerk
+Llama,Spanish,Explicit,1, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,4, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,5, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,6, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,7, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,8, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,9, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,10,Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,11, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,12, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,13, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,14, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,15, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,16, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,17,Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,18, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,20,Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,21, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,22, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,23, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,24, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,25, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,26, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,27, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,28, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,29,Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,31, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,35, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,36, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,37, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,39, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,40, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,41, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,42, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,43, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,44, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,45, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,46, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,47, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,48, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,49, Cajero Reponedor,Cajero - Reponedor
+Llama,Spanish,Explicit,50, Cajero Reponedor,Cajero - Reponedor
+Llama,English,Explicit,1,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,2, Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,3,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,4,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,5,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,6,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,7,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,8,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,9,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,10,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,11,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,12,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,13,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,14,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,15,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,16,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,17,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,18,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,19,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,20,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,21,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,22,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,23,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,24,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,25,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,26,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,27, Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,28,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,29,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,30,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,31,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,32,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,33,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,34,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,35,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,36,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,37,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,38,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,39,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,40,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,41,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,42,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,43,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,44,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,46,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,47,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,48,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,49,Cashier Stock clerk,Cashier - Stock clerk
+Llama,English,Explicit,50,Cashier Stock clerk,Cashier - Stock clerk
