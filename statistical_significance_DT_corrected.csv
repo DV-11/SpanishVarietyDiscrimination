@@ -1,0 +1,17 @@
+index,Model,Language,Mode,Bias Score,t-stat,p-val,p-val Corrected,Significant
+2,Gemma,Spanish,Implicit,-0.17942,-4.05085,7e-05,9e-05,Significant
+5,Gemma,Spanish,Explicit,0.84383,62.68588,0.0,0.0,Significant
+8,Gemma,English,Implicit,-0.02541,-0.54677,0.58515,0.58515,-
+11,Gemma,English,Explicit,0.17942,1.97962,0.05338,0.05823,-
+14,GPT,Spanish,Implicit,0.12815,2.92983,0.00379,0.00443,Significant
+17,GPT,Spanish,Explicit,0.68316,19.93393,0.0,0.0,Significant
+20,GPT,English,Implicit,0.10439,2.18275,0.03029,0.03381,Significant
+23,GPT,English,Explicit,0.68722,31.29189,0.0,0.0,Significant
+26,Qwen,Spanish,Implicit,-0.08434,-2.24773,0.0257,0.02937,Significant
+29,Qwen,Spanish,Explicit,0.52529,10.62076,0.0,0.0,Significant
+32,Qwen,English,Implicit,-0.18889,-5.01835,0.0,0.0,Significant
+35,Qwen,English,Explicit,-0.04217,-0.5849,0.5613,0.58515,-
+38,Llama,Spanish,Implicit,-0.02989,-0.56174,0.57515,0.58515,-
+41,Llama,Spanish,Explicit,0.52606,7.23259,0.0,0.0,Significant
+44,Llama,English,Implicit,-0.04714,-0.95533,0.34109,0.36383,-
+47,Llama,English,Explicit,0.39574,5.19702,0.0,1e-05,Significant
